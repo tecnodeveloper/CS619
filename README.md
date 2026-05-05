@@ -1,2 +1,1 @@
-# CS619
-Final year project of University
+# Ideas of projects
